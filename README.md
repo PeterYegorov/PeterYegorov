@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterYegorov
-- 👀 I’m interested in Malware analysis, reverse engeneering and penetration testing
+- 👀 I’m interested in Malware analysis and machine learning.
 - 🌱 I’m currently studying Cybersecurity in Bauman Moscow State University
 
 <!---
