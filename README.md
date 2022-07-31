@@ -3,7 +3,9 @@
 - 🌱 I’m currently studying Cybersecurity.
 
 - 👀 I am the captain of the MihmoHack CTF team.
+
 BCACTF 3.0 - 260/533
+
 PwnVerse - 14/129
 
 
