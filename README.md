@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PeterYegorov
-- 👀 I love programming in Java, C, C++, and Python.
 - 🌱 I’m currently studying Cybersecurity.
 
 <!---
