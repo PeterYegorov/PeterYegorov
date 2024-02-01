@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterYegorov
-- 🌱 I’m currently studying Cybersecurity.
+- 🌱 I’m currently studying AI and Cybersecurity.
 
 <!---
 PeterYegorov/PeterYegorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
