@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Yegorov
-- 🌱 Master’s student specializing in Computer Science, Data Science, and Artificial Intelligence
+- 🌱 Master of Science in Computer Science, Data Science, and Artificial Intelligence
 - 💻 Junior AI Engineer exploring the finance industry
 
 <!---
