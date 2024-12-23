@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @PeterYegorov
-- 🌱 I’m currently studying AI and Cybersecurity.
+👋 Hi, I’m Peter Yegorov
+🌱 Master’s student specializing in Computer Science, Data Science, and Artificial Intelligence
+💻 Junior AI Engineer exploring the finance industry
 
 <!---
 PeterYegorov/PeterYegorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
