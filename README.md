@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Peter Yegorov
+👋 Hi, I’m Peter Yegorov
   
-- I am a Fitness enthusiast and a Founder of "You Day" - an Agentic Duolingo-style self improvement app.
+🏋🏽💪🏼🎧 A Fitness enthusiast and a Founder of "You Day" - an Agentic Duolingo-style self improvement app
 
-- 🌱 Master of Science in Computer Science, Data Science, and Artificial Intelligence
-- 💻 Junior AI Engineer exploring the finance and legal industries
+🌱 Master of Science in Computer Science, Data Science, and Artificial Intelligence
+💻 Mid-level AI Engineer exploring the finance and legal industries
   
 
 
